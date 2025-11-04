@@ -109,7 +109,7 @@ Top initiatives based on Reach × Impact × Confidence ÷ Effort:
 
 ---
 
-## Key Metrics (North Star KPIs)
+## Key Metrics
 
 1. Unique Visitors per Day
 2. First-Time Paid Subscribers
