@@ -118,8 +118,3 @@ Top initiatives based on Reach × Impact × Confidence ÷ Effort:
 Secondary metrics: CTR from campaigns, trial-to-paid conversion, churn reduction, engagement via gamification.
 
 ---
-Roll No. 221008 | IIT Kanpur
-
----
-
-Would you like me to make this **GitHub-optimized** with headings, emojis, and collapsible sections?
